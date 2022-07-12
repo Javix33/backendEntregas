@@ -1,0 +1,20 @@
+[
+  {
+    "title": "blukie",
+    "price": 120,
+    "thumbnail": "https://javix33.github.io/wookie/resources/imagenes/productos/blukie4.jpg",
+    "id": 1
+  },
+  {
+    "title": "Kashyyk blend",
+    "price": 120,
+    "thumbnail": "https://javix33.github.io/wookie/resources/imagenes/productos/kashyyyk2.jpg",
+    "id": 2
+  },
+  {
+    "title": "Red trooper",
+    "price": 120,
+    "thumbnail": "https://javix33.github.io/wookie/resources/imagenes/productos/red2.jpg",
+    "id": 3
+  }
+]
