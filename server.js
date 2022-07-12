@@ -36,6 +36,10 @@ const app = express();
 const PORT = 8080;
 
 
+app.get("/", (req, res) => {
+    res.send("<h1> prueba las url: /productos y /productoRandom</h1>")
+
+});
 app.get("/productos", (req, res) => {
     productos.getAll().then(results => res.send(results))
 
